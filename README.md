@@ -1,7 +1,7 @@
 ## Verified to work in Release
 This project was derived from the aspnet-mssql project in [awesome-compose](https://github.com/docker/awesome-compose)
 
-No modifications to this project were necessary. To use this project, simply use this repository when creating a new application in Release.
+No modifications to this project were necessary. To use this project, simply use this repository when creating a new application in [Release](https://releaseapp.io).
 
 ## Compose sample application: ASP.NET with MS SQL server database
 
