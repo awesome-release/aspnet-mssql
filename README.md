@@ -25,7 +25,7 @@ services:
     ports:
     - 80:80
   db:
-    image: microsoft/mssql-server-linux
+    image: mcr.microsoft.com/mssql/server:2019-CU13-ubuntu-18.04
     ...
 ```
 The compose file defines an application with two services `web` and `db`. The image for the web service is built with the Dockerfile inside the `app` directory (build parameter).
