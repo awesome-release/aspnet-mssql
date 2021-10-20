@@ -8,4 +8,4 @@ services:
     environment:
       ACCEPT_EULA: "Y"
       SA_PASSWORD: example_123
-    image: microsoft/mssql-server-linux
+    image: mcr.microsoft.com/mssql/server:2019-CU13-ubuntu-18.04
